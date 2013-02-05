@@ -1,0 +1,25 @@
+﻿* { 
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #fff;
+  color: #333;
+  padding: 1em;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+#container {
+  position: absolute;
+  top: 4em;
+  left: 1em;
+  right: 1em;
+  bottom: 1em;
+  border: 1px solid #ddd;
+  background: #eee;
+}
